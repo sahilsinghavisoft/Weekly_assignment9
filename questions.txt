@@ -1,0 +1,23 @@
+1.find out the correlation between :
+                                    1.(meanrr,meanrb,meanrg),
+                                    2.(Kurtosisrg,kurtosisrr,kurtosisrb),
+                                    3.(Allduabrr,Allduabrg,Allduabrb).
+
+2.Mean distribution of every class corresponding to each features.
+5.which classs and feature can contribute more to the model nase on spread of data 
+
+3.using boxplot check outliers in every class corresponding to each features.
+
+4.check  target class is Imbalance or not.
+
+
+
+
+
+
+
+Question for anchit srivastava
+
+1.what EDA should be perform over multiple feature present in dataset to select most important feature? solved.
+
+2.
